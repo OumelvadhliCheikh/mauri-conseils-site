@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="flex items-center justify-between px-8 py-4 bg-white text-black shadow">
       <div className="flex items-center gap-2 text-2xl font-bold">
         {/* <img src="/assets/logooo.png" className="w-20 h-25 object-contain" /> */}
-        <span className="ml-20"><span className="text-[#ff7f11]">Mauri-</span>Conseils</span>
+        <span className="ml-10"><span className="text-[#ff7f11]">Mauri-</span>Conseils</span>
       </div>
 
       <ul className="hidden md:flex gap-8 font-medium">
